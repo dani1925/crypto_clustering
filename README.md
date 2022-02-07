@@ -9,4 +9,9 @@ A fundamental step for any unsupervised algorithm is to determine the optimal nu
 
 ![alt text](https://github.com/dani1925/crypto_clustering/blob/master/resources/plot1.png)
 
-the k means do not show a large difference between 4 and 10 clusters. therefore it is recommended to use 4 clusters
+the k means do not show a large difference between 4 and 10 clusters. therefore it is recommended to use 4 clusters.
+
+
+![alt text](https://github.com/dani1925/crypto_clustering/blob/master/resources/plot2.png)
+
+In the previous image it can be shown how the clustering of the data was carried out, using the pca to reduce the size of the independent variables to 3.
