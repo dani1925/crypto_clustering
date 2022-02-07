@@ -8,3 +8,5 @@ In this repository, the data of a data set that contains information on cryptocu
 A fundamental step for any unsupervised algorithm is to determine the optimal number of clusters into which the data may be clustered. The Elbow Method is one of the most popular methods to determine this optimal value of k.
 
 ![alt text](https://github.com/dani1925/crypto_clustering/blob/master/resources/plot1.png)
+
+the k means do not show a large difference between 4 and 10 clusters. therefore it is recommended to use 4 clusters
